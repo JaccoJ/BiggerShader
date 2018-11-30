@@ -5,9 +5,9 @@ Ik ben met de shaders opdracht begonnen omdat het mij heel interessant leek hoe 
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [Hier kan je zien wat voor shaders er zijn](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html)
+- [Hoe je shaders kan aanpassen](https://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
+
 
 ## Software Anaylse 
 
